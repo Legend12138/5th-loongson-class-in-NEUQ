@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xa7a12tcpg238-2I" LaunchTime="1696180957">
+  <File Type="BITSTR-BMM" Name="yuhuo_men_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="yuhuo_men_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="yuhuo_men_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="yuhuo_men_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="yuhuo_men.tcl"/>
+  <File Type="OPT-TIMING" Name="yuhuo_men_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="yuhuo_men_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="yuhuo_men_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="yuhuo_men_reports.tcl"/>
+  <File Type="OPT-DRC" Name="yuhuo_men_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="yuhuo_men.hwdef"/>
+  <File Type="PWROPT-DCP" Name="yuhuo_men_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="yuhuo_men_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="yuhuo_men_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="yuhuo_men_placed.dcp"/>
+  <File Type="PLACE-IO" Name="yuhuo_men_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="yuhuo_men_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="yuhuo_men_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="yuhuo_men_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="yuhuo_men_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="yuhuo_men_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="yuhuo_men_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="yuhuo_men_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="yuhuo_men_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="yuhuo_men.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="yuhuo_men_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="yuhuo_men_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="yuhuo_men_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="yuhuo_men.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="yuhuo_men_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="yuhuo_men_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="yuhuo_men_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="yuhuo_men_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="yuhuo_men_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="yuhuo_men_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="yuhuo_men_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="yuhuo_men.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="yuhuo_men_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="yuhuo_men_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="yuhuo_men_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="yuhuo_men_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="yuhuo_men_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="yuhuo_men_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="yuhuo_men_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="yuhuo_men_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="yuhuo_men_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="yuhuo_men_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="yuhuo_men_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="yuhuo_men_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="yuhuo_men_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="yuhuo_men_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="yuhuo_men_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="yuhuo_men_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="yuhuo_men_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="yuhuo_men_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="yuhuo_men_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="yuhuo_men_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="yuhuo_men_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="yuhuo_men.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="yuhuo_men_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="yuhuo_men.rbt"/>
+  <File Type="BITSTR-NKY" Name="yuhuo_men.nky"/>
+  <File Type="PDI-FILE" Name="yuhuo_men.pdi"/>
+  <File Type="RCFI_FILE" Name="yuhuo_men.rcfi"/>
+  <File Type="CFI_FILE" Name="yuhuo_men.cfi"/>
+  <File Type="RNPI_FILE" Name="yuhuo_men.rnpi"/>
+  <File Type="NPI_FILE" Name="yuhuo_men.npi"/>
+  <File Type="RBD_FILE" Name="yuhuo_men.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="yuhuo_men.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="yuhuo_men.sysdef"/>
+  <File Type="BG-BGN" Name="yuhuo_men.bgn"/>
+  <File Type="BG-DRC" Name="yuhuo_men.drc"/>
+  <File Type="RDI-RDI" Name="yuhuo_men.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/yuhuo_men.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="yuhuo_men"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design" EnableStepBool="1"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

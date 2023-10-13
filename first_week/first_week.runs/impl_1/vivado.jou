@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Mon Oct  2 01:22:44 2023
+# Process ID: 4432
+# Current directory: D:/desktop/vivado/first_week/first_week.runs/impl_1
+# Command line: vivado.exe -log yuhuo_men.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source yuhuo_men.tcl -notrace
+# Log file: D:/desktop/vivado/first_week/first_week.runs/impl_1/yuhuo_men.vdi
+# Journal file: D:/desktop/vivado/first_week/first_week.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source yuhuo_men.tcl -notrace
